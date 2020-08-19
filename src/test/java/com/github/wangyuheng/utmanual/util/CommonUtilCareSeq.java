@@ -6,6 +6,7 @@ import org.junit.runners.MethodSorters;
 
 import static org.junit.Assert.assertEquals;
 
+@Deprecated
 @FixMethodOrder(MethodSorters.NAME_ASCENDING)
 public class CommonUtilCareSeq {
 
