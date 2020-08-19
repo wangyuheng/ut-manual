@@ -2,6 +2,26 @@
 
 整理单元测试用例，用于指导如何编写单元测试
 
+## 示例
+
+Unit Test
+
+- [Business Service](./src/test/java/com/github/wangyuheng/utmanual/service/BizServiceTest.java)
+- [Check Throw The Specified Exception](./src/test/java/com/github/wangyuheng/utmanual/conf/UtPropertiesTestWithThrown.java)
+- [Mock File](./src/test/java/com/github/wangyuheng/utmanual/conf/UtPropertiesTestWithFileMock.java)
+- [Interceptor AOP](./src/test/java/com/github/wangyuheng/utmanual/aop/LoginInterceptorTestMockHttpServlet.java)
+- [Mock HttpServletRequest & Response](./src/test/java/com/github/wangyuheng/utmanual/aop/LoginInterceptorTestMockHttpServlet.java)
+- [Repository Dao With H2](./src/test/java/com/github/wangyuheng/utmanual/repository/CommonRepositoryTest.java)
+- [embedded redis](./src/test/java/com/github/wangyuheng/utmanual/service/CacheServiceTest.java)
+
+Debug
+
+- [Debug ThirdParty Sever](./src/test/java/com/github/wangyuheng/utmanual/adapter/OuterAdapter.java)
+
+Deprecated
+
+- [Force Case Execute Order](./src/test/java/com/github/wangyuheng/utmanual/util/CommonUtilCareSeq.java)
+
 ## 单元测试
 
 > 以终为始，拆解任务
