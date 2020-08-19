@@ -1,0 +1,14 @@
+@startuml
+usecase "<font color=white>RED" as A #red
+usecase "<font color=white>GREEN" as B #green
+usecase "<font color=white>REFACTOR" as C #purple
+
+note top of A : Write a test that fails.
+note bottom of B : Make the code work.
+note left of C : Eliminate redundancy.
+
+
+A -down-> B
+B -left-> C
+C -up-> A
+@enduml
