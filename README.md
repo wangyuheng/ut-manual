@@ -8,11 +8,12 @@ Unit Test
 
 - [Business Service](./src/test/java/com/github/wangyuheng/utmanual/service/BizServiceTest.java)
 - [Check Throw The Specified Exception](./src/test/java/com/github/wangyuheng/utmanual/conf/UtPropertiesTestWithThrown.java)
-- [Mock File](./src/test/java/com/github/wangyuheng/utmanual/conf/UtPropertiesTestWithFileMock.java)
+- [Mock File In Properties](./src/test/java/com/github/wangyuheng/utmanual/conf/UtPropertiesTestWithFileMock.java)
 - [Interceptor AOP](./src/test/java/com/github/wangyuheng/utmanual/aop/LoginInterceptorTestMockHttpServlet.java)
 - [Mock HttpServletRequest & Response](./src/test/java/com/github/wangyuheng/utmanual/aop/LoginInterceptorTestMockHttpServlet.java)
 - [Repository Dao With H2](./src/test/java/com/github/wangyuheng/utmanual/repository/CommonRepositoryTest.java)
-- [embedded redis](./src/test/java/com/github/wangyuheng/utmanual/service/CacheServiceTest.java)
+- [Embedded redis](./src/test/java/com/github/wangyuheng/utmanual/service/CacheServiceTest.java)
+- [Configuration Include Condition Bean](./src/test/java/com/github/wangyuheng/utmanual/conf/ComponentConfigTest.java)
 
 Debug
 
