@@ -1,6 +1,5 @@
 package com.github.wangyuheng.utmanual.conf;
 
-import com.github.wangyuheng.utmanual.conf.UtProperties;
 import org.junit.Rule;
 import org.junit.Test;
 import org.junit.rules.ExpectedException;

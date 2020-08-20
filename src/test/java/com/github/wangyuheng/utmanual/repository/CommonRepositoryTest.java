@@ -1,7 +1,5 @@
 package com.github.wangyuheng.utmanual.repository;
 
-import com.github.wangyuheng.utmanual.repository.CommonDo;
-import com.github.wangyuheng.utmanual.repository.CommonRepository;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;

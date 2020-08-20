@@ -4,7 +4,6 @@ import org.junit.Ignore;
 import org.junit.Test;
 import org.springframework.web.client.RestTemplate;
 
-import static org.junit.Assert.assertNotNull;
 import static org.junit.Assert.assertNull;
 
 @Ignore
